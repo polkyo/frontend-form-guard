@@ -5,9 +5,9 @@ import { User, AuthContextType } from '../types';
 const DEMO_USERS = [
   {
     id: '1',
-    email: 'demo@farmprotect.com',
-    password: 'password123',
-    name: 'Demo User'
+    email: 'meyrambek@gmail.com',
+    password: '12345678',
+    name: 'Meyrambek'
   }
 ];
 

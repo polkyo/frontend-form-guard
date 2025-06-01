@@ -98,7 +98,7 @@ const Home: React.FC = () => {
       </div>
 
       {/* Video Processing Section */}
-      <div className="max-w-7xl mx-auto px-4 py-12 sm:px-6 lg:px-8">
+      {/* <div className="max-w-7xl mx-auto px-4 py-12 sm:px-6 lg:px-8">
         <div className="bg-white shadow rounded-lg p-6">
           <h2 className="text-2xl font-bold mb-6">Video Processing</h2>
           
@@ -142,7 +142,7 @@ const Home: React.FC = () => {
             )}
           </div>
         </div>
-      </div>
+      </div> */}
 
       {/* Features */}
       <div className="py-16 bg-gray-50 overflow-hidden lg:py-24">
